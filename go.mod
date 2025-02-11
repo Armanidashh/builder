@@ -24,7 +24,7 @@ require (
 	github.com/deckarep/golang-set/v2 v2.1.0
 	github.com/dop251/goja v0.0.0-20230806174421-c933cf95e127
 	github.com/ethereum/c-kzg-4844 v0.4.0
-	github.com/fatih/color v1.15.0
+	github.com/fatih/color v1.16.0
 	github.com/ferranbt/fastssz v0.1.3
 	github.com/fjl/gencodec v0.0.0-20230517082657-f9840df7b83e
 	github.com/fjl/memsize v0.0.2
@@ -75,7 +75,7 @@ require (
 	golang.org/x/crypto v0.17.0
 	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa
 	golang.org/x/sync v0.5.0
-	golang.org/x/sys v0.16.0
+	golang.org/x/sys v0.20.0
 	golang.org/x/text v0.14.0
 	golang.org/x/time v0.3.0
 	golang.org/x/tools v0.15.0
@@ -133,7 +133,7 @@ require (
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/pprof v0.0.0-20230207041349-798e818bf904 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
-	github.com/hashicorp/go-retryablehttp v0.7.4 // indirect
+	github.com/hashicorp/go-retryablehttp v0.7.7 // indirect
 	github.com/influxdata/line-protocol v0.0.0-20200327222509-2487e7298839 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/kilic/bls12-381 v0.1.0 // indirect
